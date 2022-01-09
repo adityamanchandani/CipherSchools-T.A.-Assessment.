@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to get the missing number
+
 int getMissingNo(int a[], int n)
 {
 
@@ -12,7 +12,6 @@ int getMissingNo(int a[], int n)
     return total;
 }
 
-// Driver Code
 int main()
 {
     int arr[] = { 1, 2, 4, 5, 6 };
